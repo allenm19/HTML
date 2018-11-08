@@ -30,6 +30,12 @@
 			/* CSS for our image will be added below */
 
 			img {
+			margin-top:200px;
+			margin-left:300px;
+			border-color:black;
+			border-style:dashed;
+			border-width:2px;
+			padding:2px;
 
 			
 
