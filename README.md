@@ -53,7 +53,7 @@
 		
 			<!-- all of our page content will go in here -->
 
-			<img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD88XT8sfeAhVqUt8KHeW3A-0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.t-nation.com%2Fopinion%2F6-reasons-you-should-never-open-a-gym&psig=AOvVaw1Ml3rIHEv4uBkP6nraScHo&ust=1541872808534652" />
+			<img src="http://www.mhswebdesign.com/wp-content/uploads/2015/11/oreoturkey3-1.jpg" />
 
 
 		</div>
