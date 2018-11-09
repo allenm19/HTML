@@ -14,7 +14,7 @@
 
 			#wrapper /* a wrapper section is commonly used to be the overall page "container" that holds everything on the page */
 				{
-				background-color: orange;
+				background-color: red;
 				border-color: #7d6b72;
 				border-style: dotted;
 				border-width: 10px;
@@ -34,8 +34,8 @@
 			margin-left:300px;
 			border-color:black;
 			border-style:dashed;
-			border-width:2px;
-			padding:2px;
+			border-width:5px;
+			padding:10px;
 
 			
 
