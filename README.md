@@ -7,7 +7,7 @@
 		<style>
 
 			body {
-				background-color: turquoise;
+				background-color: blue;
 				}
 
 			/* page wrapper/container code */
@@ -17,7 +17,7 @@
 				background-color: orange;
 				border-color: #7d6b72;
 				border-style: dotted;
-				border-width: 5px;
+				border-width: 10px;
 				margin-top: 0px; /* distance from top of page */
 				margin-right: auto; /* tells the browser to center the page and determine equal margins from the left & right */
 				margin-bottom: 0px; /* distance from bottom of page */
