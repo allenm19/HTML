@@ -4,7 +4,7 @@ body {
 
 			/* page wrapper/container code */
 
-			#wrapper /* a wrapper section is commonly used to be the overall page "container" that holds everything on the page */
+			#wrapper /*  wrapper section is commonly used to be the overall page "container" that holds everything on the page */
 				{
 				background-color: red;
 				border-color: blue;
